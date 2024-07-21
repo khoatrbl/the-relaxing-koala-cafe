@@ -1,0 +1,125 @@
+body {
+  background-image: url(assets/wood-bg.jpg);
+}
+
+header,
+footer {
+  background-color: #202020;
+}
+
+.cart-icon {
+  height: 2rem;
+  width: auto;
+}
+
+.c-item {
+  height: 700px;
+}
+
+.c-img {
+  height: 100%;
+  object-fit: cover;
+}
+
+.carousel-caption {
+  transform: translateY(-50%);
+  bottom: initial;
+  top: 50%;
+}
+
+.intro-item {
+  width: 500px;
+  height: 600px;
+}
+
+.intro-img {
+  width: 100%;
+  height: 100%;
+  border-radius: 15px;
+  object-fit: cover;
+}
+
+.secondary-bg {
+  background-color: rgba(206, 206, 206, 0.75);
+  border-radius: 35px;
+}
+
+.redirect-buttons {
+  font-weight: bold;
+  border-radius: 7px;
+  padding-top: 0.7rem;
+  padding-bottom: 0.7rem;
+  padding-right: 3rem;
+  padding-left: 3rem;
+  text-decoration: none;
+  color: whitesmoke;
+  background-color: #202020;
+  transition-duration: 0.1s;
+}
+
+.menu-redirect {
+  padding-right: 5rem;
+  padding-left: 5rem;
+}
+
+.redirect-buttons:hover {
+  border-style: solid;
+  border-width: 2px;
+  color: #202020;
+  background-color: whitesmoke;
+}
+
+.menu-item {
+  width: 18rem;
+}
+
+.menu-img {
+  width: 100%;
+}
+
+.btn-primary {
+  background-color: #f1b856 !important;
+  color: black !important;
+  border-style: none !important;
+  font-weight: bold !important;
+}
+
+.btn-primary:hover {
+  background-color: #daa750 !important;
+}
+
+.menu-price {
+  color: #e89b16;
+}
+
+.menu {
+  color: black;
+  border-radius: 15px;
+  position: relative;
+  top: -15rem;
+}
+
+.btn-download {
+  background-color: #ebbc6d !important;
+}
+
+.btn-download:hover {
+  background-color: #c09e64 !important;
+}
+
+.dark-bg {
+  background-image: url(assets/dark-bg-2.jpg);
+}
+
+.light-bg {
+  background-image: url(assets/light-bg.jpg);
+}
+
+.r-item {
+  height: 500px;
+}
+
+.r-img {
+  height: 100%;
+  object-fit: cover;
+}
