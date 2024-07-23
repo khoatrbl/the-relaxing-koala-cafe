@@ -140,6 +140,19 @@ input::placeholder {
   font-size: 1rem !important;
 }
 
+.cart-item {
+  width: 200px;
+}
+
+.cart-img {
+  width: 100%;
+  object-fit: cover;
+}
+
+.quantity-control {
+  border: none;
+}
+
 hr {
   margin-bottom: 1rem;
   border: 0;

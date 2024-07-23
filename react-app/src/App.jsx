@@ -6,6 +6,7 @@ import Menu from "./components/Menu";
 import Reservation from "./components/Reservation";
 import Cart from "./components/Cart";
 import Footer from "./components/Footer";
+import CartRow from "./components/CartRow";
 // import react-router
 // import route
 
